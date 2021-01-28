@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LogIn</string>
+
+    <!-- 카카오 -->
+    <string name="kakao_app_key">8e0961129bf91d20e0f67ae83dad6181</string>
+    <!-- 네이버 -->
+    <string name="naver_client_id">67ughh4GICv3bpeCMkEK</string>
+    <string name="naver_client_secret">PyMR719FPJ</string>
+    <string name="naver_client_name">LogIn</string>
+
+
+    <!-- 페이스북 앱키 -->
+    <string name="facebook_app_key">349737896162904</string>
+
+</resources>
